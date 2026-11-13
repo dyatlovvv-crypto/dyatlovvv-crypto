@@ -6,7 +6,7 @@
 
 | Приложение | Что делает | Платформа |
 | --- | --- | --- |
-| [contexto](https://github.com/dyatlovvv-crypto/contexto) | Inbox: сохрани сейчас, разберись потом | Android |
+| [contexto](https://github.com/dyatlovvv-crypto/contexto-releases) | Inbox: сохрани сейчас, разберись потом | Android, macOS |
 | [ebook-reader](https://github.com/dyatlovvv-crypto/ebook-reader) | Читалка EPUB / FB2 / TXT | Android |
 | [autolog](https://github.com/dyatlovvv-crypto/autolog) | Журнал расходов на авто | Android |
 | [browser](https://github.com/dyatlovvv-crypto/browser) | Браузер в духе Safari | Android |
